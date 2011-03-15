@@ -1,0 +1,6 @@
+Currently, this contains only the dated source files.
+
+module-2.4 : contains the sources for 2.4.22
+module-2.6 : contains the stables sources for 2.6.7 as of June 2004
+
+Please see http://www.sfchat.org/mramfs/ for more information.

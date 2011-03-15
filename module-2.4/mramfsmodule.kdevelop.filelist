@@ -1,0 +1,13 @@
+# KDevelop Custom Project File List
+AUTHORS
+ChangeLog
+COPYING
+INSTALL
+Makefile
+mramfsmodule-driver.c
+mramfsmodule.kdevelop
+NEWS
+README
+TODO
+templates/c
+templates/h
